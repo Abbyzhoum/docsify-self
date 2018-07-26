@@ -12,8 +12,20 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: ''
+      '/.*/_navbar.md': '/_navbar.md',
+      '/.*/_sidebar.md': '/_sidebar.md',
+      repo: 'introduce-self',
+      name: 'introduce',
+      auto2top: true,
+      basePath: '/docsify-self/',
+      executeScript: true,
+      loadNavbar: true,
+      loadSidebar: true,
+      coverpage: true,
+      name: 'docsify',
+      subMaxLevel: 2,
+      mergeNavbar: true,
+      formatUpdated: '{MM}/{DD} {HH}:{mm}'
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
