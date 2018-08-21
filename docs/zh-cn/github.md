@@ -13,3 +13,10 @@
 
   node搭建服务器
   https://github.com/nswbmw/N-blog
+
+>  ####  Airbnb JavaScript Style Guide  JavaScript样式指南  推荐✨✨✨✨
+
+  ![logo](../img/Airbnb JavaScript Style Guide.png ':size=700')
+
+  node搭建服务器
+  https://github.com/airbnb/javascript
