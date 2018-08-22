@@ -18,5 +18,12 @@
 
   ![logo](../img/Airbnb JavaScript Style Guide.png ':size=700')
 
-  node搭建服务器
+  JavaScript样式指南
   https://github.com/airbnb/javascript
+
+>  #### linux-command  Linux命令分类大全  推荐✨✨✨✨
+
+  ![logo](../img/linux-command.png ':size=700')
+
+  Linux命令分类大全
+  https://github.com/jaywcjlove/linux-command
