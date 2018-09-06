@@ -1,5 +1,5 @@
 <!-- #这是navbar.md -->
 
 * website举例
-  * [Echarts](zh-cn/echarts.md)
-  * [Element UI](zh-cn/elementUI.md)
+  * [Echarts](zh-cn/echart_s.md)
+  * [Element UI](zh-cn/element_UI.md)

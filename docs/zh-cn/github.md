@@ -27,3 +27,10 @@
 
   Linux命令分类大全
   https://github.com/jaywcjlove/linux-command
+
+ >  #### faker  超级有用的生成器方法(假数据-->测试)  推荐✨✨✨✨
+
+  ![logo](../img/faker.png ':size=700')
+
+  faker 使用指南及详解
+  https://github.com/Marak/faker.js
