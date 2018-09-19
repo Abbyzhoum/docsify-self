@@ -53,7 +53,6 @@
   https://standardjs.com/readme-zhcn.html#what-you-might-do-if-youre-clever
 
 
-
 >  ####   Markdown Preview Enhanced  -- markdown 同步浏览  推荐✨✨✨✨ 
   功能:如自动滚动同步，数学排版，美人鱼，PlantUML，pandoc，PDF导出，代码块，演示文稿编写器等
 
